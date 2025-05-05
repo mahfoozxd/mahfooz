@@ -1,2 +1,39 @@
-MAHFOOZ:65af296ab340fd35,10MIN
-RAHUL:e7c3cb8d6a8c865e,1Y
+[
+  {
+    "id": "a880d1841a905298",
+    "username": "mintu",
+    "password": "Mintu@123",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "asif",
+    "password": "Asif@123",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  },
+{
+    "id": "android_device_id_2",
+    "username": "aftab",
+    "password": "Aftab@123",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  },
+{
+    "id": "android_device_id_2",
+    "username": "altaf",
+    "password": "Altaf@123",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  },
+{
+    "id": "android_device_id_2",
+    "username": "mahfooz",
+    "password": "Mahfooz@123",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  },
+
+
+]
