@@ -2,33 +2,13 @@
   {
     "id": "e7c3cb8d6a8c865e",
     "key": "mahfooz",
-    "expiresAt": "2024-05-30",
+    "expiresAt": "2025-05-30",
     "allowOffline": false
   },
   {
-    "id": "abc123def456ghi789",
-    "key": "key1",
-    "expiresAt": "2025-05-30",
-    "allowOffline": true
-  },
-{
-    "id": "abc123def456ghi789",
-    "key": "key1",
-    "expiresAt": "2025-05-30",
-    "allowOffline": true
-  },
-{
-    "id": "abc123def456ghi789",
-    "key": "key1",
-    "expiresAt": "2025-05-30",
-    "allowOffline": true
-  },
-{
-    "id": "abc123def456ghi789",
-    "key": "key1",
-    "expiresAt": "2025-05-30",
-    "allowOffline": true
-  },
-
-
+    "id": "aueud",
+    "key": "aftabto",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  }
 ]
