@@ -53,4 +53,10 @@
     "expiresAt": "2025-06-30",
     "allowOffline": false
   },
+{
+    "id": "f43a921bdbaf1f37",
+    "key": "tosif",
+    "expiresAt": "2025-06-30",
+    "allowOffline": false
+  },
 ]
