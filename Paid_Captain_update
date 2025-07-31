@@ -1,7 +1,9 @@
 {
-  "version": "1.1",
-  "title": "Update v1.1 soon...",
-  "subtitle": "	☄ Disegned By @Fireway727 🫣\n☄ Dialog modern 🙂‍↕️\n☄ version v9 🤙",
-  "update_url": "https://t.me/FwDialogs",
-  "show_close_button": true
+  "showDialog": true,
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "title": "UPDATE AVAILABLE",
+  "message": "Get the newest features and improvements.",
+  "UpdateButtonText": "DOWNLOAD",
+  "UpdateButtonUrl": "https://play.google.com/store/apps/details?id=com.yourapp.packagename"
 }
