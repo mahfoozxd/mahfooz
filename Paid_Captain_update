@@ -1,0 +1,8 @@
+{
+  "showUpdate": true,
+  "title": "🔔 New Update Available!",
+  "message": "Please update the app to continue using it.",
+  "buttonText": "Update Now",
+  "updateUrl": "https://wa.me/7890565896",
+  "credit": "BY_XD"
+}
