@@ -1,8 +1,7 @@
 {
-  "showUpdate": true,
-  "title": "🔔 New Update Available!",
-  "message": "Please update the app to continue using it.",
-  "buttonText": "Update Now",
-  "updateUrl": "https://wa.me/7890565896",
-  "credit": "BY_XD"
+  "version": "1.1",
+  "title": "Update v1.1 soon...",
+  "subtitle": "	☄ Disegned By @Fireway727 🫣\n☄ Dialog modern 🙂‍↕️\n☄ version v9 🤙",
+  "update_url": "https://t.me/FwDialogs",
+  "show_close_button": true
 }
