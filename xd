@@ -164,6 +164,12 @@
     "allowOffline": false
   },
 {
+    "id": "8095bcdc0b57d7d3",
+    "key": "anzar2",
+    "expiresAt": "2025-09-30",
+    "allowOffline": false
+  },
+{
     "id": "ef71f192e0351cfe",
     "key": "chintu",
     "expiresAt": "2025-09-30",
