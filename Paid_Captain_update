@@ -1,7 +1,7 @@
 {
-  "showDialog": false,
-  "latestVersionCode": 509,
-  "latestVersionName": "5.37.0",
+  "showDialog": true,
+  "latestVersionCode": 510,
+  "latestVersionName": "5.38.0",
   "title": "UPDATE AVAILABLE",
   "message": "Get the newest features and improvements. by xd",
   "UpdateButtonText": "DOWNLOAD",
