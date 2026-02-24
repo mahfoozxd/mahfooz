@@ -205,4 +205,10 @@
     "expiresAt": "2026-02-30",
     "allowOffline": false
   },
+{
+    "id": "a21f508ce46ba420",
+    "key": "absjar",
+    "expiresAt": "2026-02-30",
+    "allowOffline": false
+  },
 ]
