@@ -212,4 +212,11 @@
     "allowOffline": false
   },
 
+{
+    "id": "5b5b737c87534ef8",
+    "key": "chintu",
+    "expiresAt": "2026-04-30",
+    "allowOffline": false
+  },
+
 ]
